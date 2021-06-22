@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/a-summer-day/static/css/main.3b4ef460.chunk.css",
+    "main.js": "/a-summer-day/static/js/main.aebe2f30.chunk.js",
+    "main.js.map": "/a-summer-day/static/js/main.aebe2f30.chunk.js.map",
+    "runtime-main.js": "/a-summer-day/static/js/runtime-main.c36ed525.js",
+    "runtime-main.js.map": "/a-summer-day/static/js/runtime-main.c36ed525.js.map",
+    "static/js/2.0a106052.chunk.js": "/a-summer-day/static/js/2.0a106052.chunk.js",
+    "static/js/2.0a106052.chunk.js.map": "/a-summer-day/static/js/2.0a106052.chunk.js.map",
+    "static/js/3.9688d89e.chunk.js": "/a-summer-day/static/js/3.9688d89e.chunk.js",
+    "static/js/3.9688d89e.chunk.js.map": "/a-summer-day/static/js/3.9688d89e.chunk.js.map",
+    "index.html": "/a-summer-day/index.html",
+    "static/css/main.3b4ef460.chunk.css.map": "/a-summer-day/static/css/main.3b4ef460.chunk.css.map",
+    "static/js/2.0a106052.chunk.js.LICENSE.txt": "/a-summer-day/static/js/2.0a106052.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c36ed525.js",
+    "static/js/2.0a106052.chunk.js",
+    "static/css/main.3b4ef460.chunk.css",
+    "static/js/main.aebe2f30.chunk.js"
+  ]
+}
